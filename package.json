@@ -8,5 +8,17 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "dependencies": {
+    "pm2": "^7.0.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BaishakhiDash/node-repo.git"
+  },
+  "bugs": {
+    "url": "https://github.com/BaishakhiDash/node-repo/issues"
+  },
+  "homepage": "https://github.com/BaishakhiDash/node-repo#readme",
   "description": ""
 }
